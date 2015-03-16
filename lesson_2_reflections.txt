@@ -8,3 +8,5 @@
 	A. Branches would be helpful in situation where you want to try something new with your code and you don't want to mess with the working state of your project.  Branches will easily allow you to move back to points in time without having to memories or keep track of commit id's.
 5.	Q.	How do the diagrams help you visualize the branch structure?
 	A.	It helps to show which branches house which commits.
+6.	Q.	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	A.	The result is that the new merged branch contains all relevant changes.  It includes all the associated commits.
