@@ -1,0 +1,2 @@
+1. 	Q. What happens when you initialize a repository? Why do you need to do it?
+	A. When you initiaize a repository a .git file is created that will contain meta data that tracks all of the changes you make in the init directory and all of its sub directories.  You need to do this to tell git where to monitor and track changes.
