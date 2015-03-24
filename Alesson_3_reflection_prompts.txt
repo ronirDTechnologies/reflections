@@ -11,3 +11,6 @@
       - Branch is a label which help indicates when a certain set of changes has occured.
 4. Q. What is the benefit of having a copy of the last known state of the remote stored locally?
    A. This makes it easier to merge remote changes into your local repository and vice versus.
+5. Q. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+   A. To collaborate without using Git or Github, there would need to be alot of verbal communication or maybe via email.  It would be harder to keep
+   Track of all changes that occur during the collaboration.  I don't think much would be easier.
