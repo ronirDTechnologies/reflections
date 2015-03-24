@@ -9,3 +9,5 @@
       clone it anywhere.
       - A clone is an exact copy of the commit history of a repository.  This can be done local-local, or remote - local.
       - Branch is a label which help indicates when a certain set of changes has occured.
+4. Q. What is the benefit of having a copy of the last known state of the remote stored locally?
+   A. This makes it easier to merge remote changes into your local repository and vice versus.
